@@ -1,5 +1,3 @@
-nventory Management System
-Description
 This is an Inventory Management System built using Python and Tkinter, designed to manage inventory data such as item ID, name, quantity, and price. The program allows you to add, update, view, and delete items in a database. It uses SQLite as the database backend for storing inventory data.
 
 Requirements
