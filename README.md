@@ -3,9 +3,9 @@ This is an Inventory Management System built using Python and Tkinter, designed 
 Requirements
 To run this program, you'll need to have the following installed:
 
-Python 3.10.10
-Tkinter (usually bundled with Python by default)
-SQLite (also bundled with Python by default)
+Python 3.10.10 , 
+Tkinter (usually bundled with Python by default) , 
+SQLite (also bundled with Python by default) , 
 Any modern code editor (e.g., VS Code, PyCharm, etc.)
 
 Libraries:
