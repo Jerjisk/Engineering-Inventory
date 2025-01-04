@@ -28,18 +28,18 @@ How To Use:
 
 Features:
 
-Add, update, and delete inventory items.
+- Add, update, and delete inventory items.
 
-Simple user interface to interact with inventory data.
+- Simple user interface to interact with inventory data.
 
-Data is stored in an SQLite database (inventory.db).
+- Data is stored in an SQLite database (inventory.db).
 
-Error handling for invalid input.
+- Error handling for invalid input.
 
 Future Enhancements:
 
-Add the ability to save and load the inventory to/from a file.
+- Add the ability to save and load the inventory to/from a file.
 
-Implement sorting and searching for items.
+- Implement sorting and searching for items.
 
-Allow for exporting inventory data to CSV or Excel.
+- Allow for exporting inventory data to CSV or Excel.
