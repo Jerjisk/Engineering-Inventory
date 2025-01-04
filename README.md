@@ -20,11 +20,11 @@ Libraries:
 
 How To Use:
 
-1.) clone the repository using git clone https://github.com/Jerjisk/Engineering-Inventory.git
+1.) Clone the repository using git clone https://github.com/Jerjisk/Engineering-Inventory.git
 
 2.) Navigated to project directory using cd Inventory-Project
 
-3.) run program using python inventory.py
+3.) Run program using python inventory.py
 
 Features:
 
